@@ -1,7 +1,9 @@
 # IntelligentScrabble
 
-Date Start: April 2020
-Date End: April 28, 2020
+Date Start: 4/20/2020
+Date End: 4/28/2020
+
+Language: Python
 
 Problem: Use Artifical Intelligence concepts in some project using Python
 
